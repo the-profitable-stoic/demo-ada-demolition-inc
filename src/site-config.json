@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "ADA Demolition, Inc.",
+    "phone": "+14088992836",
+    "category": "demolition contractor",
+    "city": "San Jose",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "San Jose's Demolition Experts",
+      "heroSubline": "Safe, efficient, and thorough demolition services for residential and commercial projects. Proudly serving the Bay Area for over a decade.",
+      "aboutTitle": "Decades of Demolition Excellence",
+      "aboutText": [
+        "ADA Demolition, Inc. started with a simple mission: to provide reliable and responsible demolition services to the San Jose community. Founded by seasoned professionals, we've built a reputation on hard work, integrity, and a commitment to exceeding expectations.",
+        "Our approach is straightforward: understand the project, plan meticulously, and execute flawlessly. We prioritize safety and environmental responsibility, ensuring every job is completed to the highest standards. We value clear communication and transparent pricing, so you always know what to expect.",
+        "As a locally owned and operated business, we're deeply invested in the well-being of San Jose and its surrounding areas. We actively support local initiatives and strive to minimize our environmental impact. We believe in giving back to the community that has supported us for so many years."
+      ],
+      "valueProps": [
+        {
+          "title": "Safety First",
+          "description": "We adhere to strict safety protocols on every job site, protecting our team and your property."
+        },
+        {
+          "title": "Experienced Team",
+          "description": "Our skilled professionals bring years of demolition expertise to every project."
+        },
+        {
+          "title": "Environmentally Conscious",
+          "description": "We prioritize responsible disposal and recycling practices to minimize our environmental footprint."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide clear and upfront estimates with no hidden fees or surprises."
+        }
+      ],
+      "ctaHeadline": "Ready to Start Demolition?",
+      "ctaSubline": "Contact us today for a free consultation and estimate. Let's discuss your project and how we can help."
+    },
+    "services": [
+      {
+        "slug": "residential-demolition",
+        "name": "Residential Demolition",
+        "shortDescription": "Safe and efficient demolition services for homes, garages, and more.",
+        "description": "ADA Demolition provides comprehensive residential demolition services tailored to the unique needs of San Jose homeowners. From removing outdated kitchens and bathrooms to complete house demolitions, we handle every project with precision and care.\n\nWe understand the challenges of demolition in established neighborhoods like Willow Glen and Rose Garden, where space is limited and noise concerns are paramount. Our team utilizes specialized equipment and techniques to minimize disruption to your neighbors and protect surrounding properties. We also ensure all debris is properly removed and disposed of, leaving your property clean and ready for its next phase.\n\nWhether you're planning a renovation, addition, or new construction, ADA Demolition is your trusted partner for safe and responsible residential demolition in San Jose and beyond. We handle everything from initial permits to final cleanup, ensuring a seamless and stress-free experience.",
+        "process": [
+          "Step 1: Site Assessment and Planning",
+          "Step 2: Permit Acquisition",
+          "Step 3: Safety Protocol Implementation",
+          "Step 4: Controlled Demolition and Debris Removal"
+        ],
+        "benefits": [
+          "Increased property value",
+          "Preparation for renovation or new construction",
+          "Safe and efficient removal of unwanted structures",
+          "Reduced risk of accidents and injuries"
+        ],
+        "faq": [
+          {
+            "question": "Do I need a permit for residential demolition?",
+            "answer": "Yes, in most cases, a permit is required for residential demolition in San Jose. We can assist you with the permit application process."
+          },
+          {
+            "question": "How long does residential demolition typically take?",
+            "answer": "The duration of a residential demolition project depends on the size and complexity of the structure. We'll provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "What happens to the debris after demolition?",
+            "answer": "We prioritize responsible disposal and recycling. We'll haul away all debris and dispose of it at licensed facilities, diverting as much material as possible from landfills."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-demolition",
+        "name": "Commercial Demolition",
+        "shortDescription": "Expert demolition services for offices, retail spaces, and industrial facilities.",
+        "description": "ADA Demolition offers comprehensive commercial demolition services for businesses throughout San Jose and the surrounding Bay Area. We understand the unique challenges of commercial demolition, including tight deadlines, complex structures, and environmental regulations.\n\nWhether you're renovating an office space in downtown San Jose, demolishing a retail building in Santana Row, or clearing land for a new industrial development, our team has the expertise and equipment to get the job done safely and efficiently. We prioritize minimizing disruption to your business operations and surrounding areas.\n\nWe handle all aspects of commercial demolition, from initial site assessments and permit acquisition to demolition, debris removal, and site cleanup. Our commitment to safety, environmental responsibility, and customer satisfaction makes us the preferred choice for commercial demolition in San Jose.",
+        "process": [
+          "Step 1: Detailed Site Survey and Planning",
+          "Step 2: Asbestos and Hazardous Material Abatement (if needed)",
+          "Step 3: Utility Disconnection and Safety Measures",
+          "Step 4: Controlled Demolition and Waste Management"
+        ],
+        "benefits": [
+          "Preparation for new construction or redevelopment",
+          "Increased property value",
+          "Safe and efficient removal of unwanted structures",
+          "Compliance with environmental regulations"
+        ],
+        "faq": [
+          {
+            "question": "Do you handle asbestos abatement?",
+            "answer": "Yes, we are licensed and experienced in asbestos abatement. We can safely remove and dispose of asbestos-containing materials before demolition begins."
+          },
+          {
+            "question": "What types of commercial properties do you demolish?",
+            "answer": "We demolish a wide range of commercial properties, including office buildings, retail stores, warehouses, and industrial facilities."
+          },
+          {
+            "question": "How do you minimize disruption to surrounding businesses?",
+            "answer": "We carefully plan and execute our demolition projects to minimize noise, dust, and traffic disruptions. We also work closely with our clients to schedule demolition activities during off-peak hours."
+          }
+        ]
+      },
+      {
+        "slug": "selective-demolition",
+        "name": "Selective Demolition",
+        "shortDescription": "Precise and targeted demolition for renovations and remodeling projects.",
+        "description": "ADA Demolition specializes in selective demolition, also known as interior or surgical demolition. This method allows for the removal of specific building components while leaving the surrounding structure intact. It's perfect for renovations, remodeling projects, and tenant improvements in San Jose homes and businesses.\n\nWhether you're removing a wall to create an open floor plan, gutting a kitchen for a complete remodel, or removing fixtures and finishes in a commercial space, our skilled team can handle the job with precision and care. We use specialized tools and techniques to minimize dust, noise, and disruption to your property.\n\nSelective demolition requires a high level of expertise and attention to detail. ADA Demolition has a proven track record of successfully completing selective demolition projects throughout San Jose. We work closely with contractors and homeowners to ensure the demolition is completed to their exact specifications.",
+        "process": [
+          "Step 1: Detailed Project Planning and Marking",
+          "Step 2: Protective Covering Installation",
+          "Step 3: Careful and Precise Demolition",
+          "Step 4: Debris Removal and Cleanup"
+        ],
+        "benefits": [
+          "Minimal disruption to the surrounding structure",
+          "Reduced dust and noise",
+          "Precise and targeted demolition",
+          "Preparation for renovations and remodeling"
+        ],
+        "faq": [
+          {
+            "question": "What is the difference between selective demolition and complete demolition?",
+            "answer": "Selective demolition involves removing specific building components while leaving the surrounding structure intact, while complete demolition involves demolishing the entire structure."
+          },
+          {
+            "question": "How do you protect the surrounding structure during selective demolition?",
+            "answer": "We use protective coverings and specialized tools to minimize damage to the surrounding structure. We also carefully plan and execute our demolition projects to ensure the safety of the building and its occupants."
+          },
+          {
+            "question": "Can you remove load-bearing walls during selective demolition?",
+            "answer": "Removing load-bearing walls requires careful planning and structural support. We can assess the structural integrity of the wall and provide recommendations for safe removal."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-removal",
+        "name": "Concrete Removal",
+        "shortDescription": "Efficient and reliable concrete removal services for residential and commercial properties.",
+        "description": "ADA Demolition offers professional concrete removal services for a variety of applications in San Jose. From breaking up and removing old driveways and patios to demolishing concrete foundations and retaining walls, our team has the equipment and expertise to handle any concrete removal project.\n\nSan Jose's climate, with its minimal rain and mild temperatures, can still cause concrete to crack and deteriorate over time. Whether you're dealing with an aging driveway in Almaden Valley or a damaged foundation in Japantown, ADA Demolition can provide a cost-effective and efficient solution.\n\nWe use a variety of methods for concrete removal, including jackhammers, concrete saws, and heavy machinery. We also prioritize responsible disposal and recycling of concrete debris, minimizing our environmental impact. Contact us today for a free estimate on your concrete removal project.",
+        "process": [
+          "Step 1: Site Assessment and Planning",
+          "Step 2: Saw Cutting (if needed)",
+          "Step 3: Concrete Breaking and Removal",
+          "Step 4: Debris Hauling and Disposal"
+        ],
+        "benefits": [
+          "Preparation for new construction or landscaping",
+          "Removal of damaged or unwanted concrete",
+          "Increased property value",
+          "Safe and efficient concrete removal"
+        ],
+        "faq": [
+          {
+            "question": "How do you dispose of concrete debris?",
+            "answer": "We haul away concrete debris to licensed recycling facilities, where it can be crushed and reused for various construction applications."
+          },
+          {
+            "question": "What is the cost of concrete removal?",
+            "answer": "The cost of concrete removal depends on the size and thickness of the concrete, as well as the accessibility of the site. We provide free estimates to assess the specific needs of your project."
+          },
+          {
+            "question": "Do you handle reinforced concrete?",
+            "answer": "Yes, we have the equipment and expertise to remove reinforced concrete, which contains steel rebar."
+          }
+        ]
+      },
+      {
+        "slug": "pool-removal",
+        "name": "Pool Removal",
+        "shortDescription": "Safe and efficient pool removal services to reclaim your backyard space.",
+        "description": "ADA Demolition specializes in professional pool removal services for homeowners in San Jose and surrounding areas. Whether your pool is outdated, damaged, or simply no longer needed, we can safely and efficiently remove it, reclaiming valuable backyard space.\n\nMany older homes in San Jose have aging pools that require extensive maintenance and repairs. Removing these pools can not only save you money in the long run but also increase the value and usability of your property. ADA Demolition offers both partial and complete pool removal options to suit your specific needs and budget.\n\nWe handle all aspects of pool removal, from draining and disconnecting utilities to demolishing the pool structure, filling the excavation, and compacting the soil. Our team is experienced in working with different types of pools, including concrete, fiberglass, and vinyl liner pools. We also ensure all debris is properly removed and disposed of, leaving your backyard clean and ready for its next transformation.",
+        "process": [
+          "Step 1: Pool Draining and Utility Disconnection",
+          "Step 2: Demolition of Pool Structure",
+          "Step 3: Debris Removal and Backfilling",
+          "Step 4: Soil Compaction and Grading"
+        ],
+        "benefits": [
+          "Increased backyard space",
+          "Reduced maintenance costs",
+          "Elimination of safety hazards",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "What is the difference between partial and complete pool removal?",
+            "answer": "Partial pool removal involves demolishing the top portion of the pool and filling the remaining void with soil, while complete pool removal involves demolishing the entire pool structure and removing all debris."
+          },
+          {
+            "question": "Do I need a permit for pool removal?",
+            "answer": "Yes, a permit is typically required for pool removal in San Jose. We can assist you with the permit application process."
+          },
+          {
+            "question": "How long does pool removal typically take?",
+            "answer": "The duration of pool removal depends on the size and type of pool, as well as the accessibility of the site. We'll provide a detailed timeline during the initial consultation."
+          }
+        ]
+      },
+      {
+        "slug": "site-clearing",
+        "name": "Site Clearing",
+        "shortDescription": "Comprehensive site clearing services for residential and commercial development.",
+        "description": "ADA Demolition provides comprehensive site clearing services for residential and commercial development projects throughout San Jose. We prepare land for new construction by removing trees, brush, structures, and other obstacles, ensuring a clean and level building site.\n\nSan Jose's rapid growth and development require efficient and responsible site clearing practices. Whether you're building a new home in a developing suburb or constructing a commercial building in the city center, ADA Demolition can provide the expertise and equipment needed to prepare your site for construction.\n\nWe handle all aspects of site clearing, from tree removal and brush clearing to demolition of existing structures and debris removal. We also prioritize environmental responsibility, minimizing erosion and protecting surrounding vegetation. Our goal is to provide a safe, efficient, and environmentally sound site clearing service that meets your specific needs.",
+        "process": [
+          "Step 1: Site Assessment and Planning",
+          "Step 2: Tree and Brush Removal",
+          "Step 3: Structure Demolition (if needed)",
+          "Step 4: Debris Removal and Grading"
+        ],
+        "benefits": [
+          "Preparation for new construction",
+          "Increased property value",
+          "Safe and efficient site clearing",
+          "Compliance with environmental regulations"
+        ],
+        "faq": [
+          {
+            "question": "Do you handle tree removal?",
+            "answer": "Yes, we are experienced in tree removal and can obtain the necessary permits for tree removal in San Jose."
+          },
+          {
+            "question": "What do you do with the debris from site clearing?",
+            "answer": "We prioritize responsible disposal and recycling of debris from site clearing, minimizing our environmental impact."
+          },
+          {
+            "question": "How long does site clearing typically take?",
+            "answer": "The duration of site clearing depends on the size and complexity of the site. We'll provide a detailed timeline during the initial consultation."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "San Jose",
+        "slug": "san-jose-ca",
+        "state": "CA",
+        "content": "ADA Demolition, Inc. is proud to provide comprehensive demolition services to the residents and businesses of San Jose, California. As a leading demolition contractor in the Bay Area, we understand the unique needs of this vibrant and growing city. From residential teardowns to commercial building demolitions, we have the expertise and equipment to handle projects of any size and complexity.\n\nOur commitment to safety, efficiency, and environmental responsibility sets us apart. We adhere to strict industry standards and local regulations to ensure that every project is completed safely and with minimal disruption to the surrounding community. Whether you're planning a home renovation, a commercial redevelopment, or need selective interior demolition, ADA Demolition is your trusted partner in San Jose.\n\nWe offer a wide range of demolition services, including complete building demolition, selective demolition, interior demolition, concrete removal, and site clearing. Contact us today for a free consultation and estimate.",
+        "localContext": "San Jose is the largest city in the Bay Area and serves as a major hub for technology and innovation, requiring reliable demolition services for ongoing development and redevelopment projects.",
+        "nearbyAreas": [
+          "Santa Clara",
+          "Sunnyvale",
+          "Milpitas"
+        ]
+      },
+      {
+        "city": "Santa Clara",
+        "slug": "santa-clara-ca",
+        "state": "CA",
+        "content": "ADA Demolition, Inc. extends its professional demolition services to Santa Clara, a city renowned for its high-tech industry and home to Levi's Stadium. We understand the specific needs of this dynamic community, offering tailored demolition solutions for residential, commercial, and industrial projects.\n\nOur team is experienced in handling a variety of demolition tasks, from small-scale residential removals to large-scale commercial demolitions. We prioritize safety and efficiency, ensuring that all projects are completed on time and within budget. ADA Demolition is committed to providing top-quality service to the residents and businesses of Santa Clara.\n\nWe specialize in eco-friendly demolition practices, including recycling and responsible waste disposal. This approach minimizes environmental impact and contributes to the sustainability of Santa Clara. Contact us today to learn more about our services.",
+        "localContext": "Santa Clara's booming tech industry and proximity to major sporting venues require specialized demolition services for renovations, expansions, and new construction.",
+        "nearbyAreas": [
+          "San Jose",
+          "Sunnyvale",
+          "Cupertino"
+        ]
+      },
+      {
+        "city": "Sunnyvale",
+        "slug": "sunnyvale-ca",
+        "state": "CA",
+        "content": "ADA Demolition, Inc. is a leading provider of demolition services in Sunnyvale, California, a key city in Silicon Valley. We offer a comprehensive range of demolition services to meet the needs of homeowners, businesses, and developers in this thriving community.\n\nFrom residential teardowns to commercial building demolitions, our experienced team has the expertise and equipment to handle any project, large or small. We are committed to providing safe, efficient, and environmentally responsible demolition services.\n\nOur services include complete building demolition, selective demolition, interior demolition, concrete removal, and site clearing. We work closely with our clients to ensure that their projects are completed on time and within budget. Contact us today for a free consultation and estimate.",
+        "localContext": "Sunnyvale's strong tech presence and ongoing development projects necessitate reliable and efficient demolition services for both residential and commercial properties.",
+        "nearbyAreas": [
+          "Santa Clara",
+          "Mountain View",
+          "Cupertino"
+        ]
+      },
+      {
+        "city": "Mountain View",
+        "slug": "mountain-view-ca",
+        "state": "CA",
+        "content": "ADA Demolition, Inc. proudly serves Mountain View, California, offering top-tier demolition services to this vibrant city at the heart of Silicon Valley. We cater to the diverse needs of Mountain View's residential, commercial, and industrial sectors with our comprehensive demolition solutions.\n\nOur team is highly skilled in handling a wide array of demolition projects, from residential renovations to large-scale commercial demolitions. We prioritize safety, efficiency, and environmental responsibility in every project we undertake. ADA Demolition is dedicated to providing exceptional service to the residents and businesses of Mountain View.\n\nWe offer specialized services such as selective interior demolition and concrete removal, ensuring minimal disruption to your property and the surrounding environment. Contact us today for a free consultation and estimate.",
+        "localContext": "Mountain View, home to Google and numerous other tech companies, requires specialized demolition services to support ongoing construction and infrastructure development.",
+        "nearbyAreas": [
+          "Sunnyvale",
+          "Palo Alto",
+          "Los Altos"
+        ]
+      },
+      {
+        "city": "Palo Alto",
+        "slug": "palo-alto-ca",
+        "state": "CA",
+        "content": "ADA Demolition, Inc. is pleased to offer its demolition services to Palo Alto, California, a city known for its prestigious university and affluent community. We provide tailored demolition solutions for residential and commercial projects, ensuring minimal disruption to the surrounding environment.\n\nOur team is experienced in handling a variety of demolition tasks, from selective interior demolitions to complete building removals. We prioritize safety and efficiency, ensuring that all projects are completed on time and within budget. ADA Demolition is committed to providing top-quality service to the residents and businesses of Palo Alto.\n\nWe understand the unique needs of Palo Alto's historic neighborhoods and work diligently to preserve the city's architectural heritage. Contact us today to learn more about our services.",
+        "localContext": "Palo Alto's historic architecture and affluent community require specialized demolition services that prioritize preservation and minimal disturbance.",
+        "nearbyAreas": [
+          "Mountain View",
+          "Menlo Park",
+          "Los Altos"
+        ]
+      },
+      {
+        "city": "Milpitas",
+        "slug": "milpitas-ca",
+        "state": "CA",
+        "content": "ADA Demolition, Inc. is a trusted provider of demolition services in Milpitas, California, a city known for its diverse community and thriving business sector. We offer a comprehensive range of demolition solutions to meet the needs of homeowners, businesses, and developers in this dynamic area.\n\nFrom residential teardowns to commercial building demolitions, our experienced team has the expertise and equipment to handle any project, large or small. We are committed to providing safe, efficient, and environmentally responsible demolition services.\n\nOur services include complete building demolition, selective demolition, interior demolition, concrete removal, and site clearing. We work closely with our clients to ensure that their projects are completed on time and within budget. Contact us today for a free consultation and estimate.",
+        "localContext": "Milpitas' diverse community and business sector require adaptable demolition services for both residential and commercial redevelopment projects.",
+        "nearbyAreas": [
+          "San Jose",
+          "Fremont",
+          "Sunnyvale"
+        ]
+      },
+      {
+        "city": "Fremont",
+        "slug": "fremont-ca",
+        "state": "CA",
+        "content": "ADA Demolition, Inc. provides professional demolition services to Fremont, California, a large and diverse city in the East Bay. We offer comprehensive demolition solutions for residential, commercial, and industrial properties, catering to the specific needs of this growing community.\n\nOur team is experienced in handling a wide range of demolition projects, from small-scale residential removals to large-scale industrial demolitions. We prioritize safety and efficiency, ensuring that all projects are completed on time and within budget. ADA Demolition is committed to providing top-quality service to the residents and businesses of Fremont.\n\nWe offer specialized services such as selective demolition and concrete removal, minimizing disruption to your property and the surrounding environment. Contact us today for a free consultation and estimate.",
+        "localContext": "Fremont's diverse population and growing industrial sector necessitate adaptable demolition services for various types of construction and redevelopment projects.",
+        "nearbyAreas": [
+          "Milpitas",
+          "Union City",
+          "Newark"
+        ]
+      },
+      {
+        "city": "Cupertino",
+        "slug": "cupertino-ca",
+        "state": "CA",
+        "content": "ADA Demolition, Inc. is pleased to offer its expert demolition services to Cupertino, California, home to Apple Inc. and a hub of technological innovation. We understand the needs of this community and provide tailored demolition solutions for residential, commercial, and industrial projects.\n\nOur team is skilled in handling various demolition tasks, from small-scale residential removals to large-scale commercial demolitions. We emphasize safety and efficiency, ensuring all projects are completed on time and within budget. ADA Demolition is dedicated to providing top-quality service to the residents and businesses of Cupertino.\n\nWe focus on environmentally friendly demolition practices, which include recycling and responsible waste disposal. This method reduces environmental impact and contributes to Cupertino's sustainability. Contact us today for more information about our services.",
+        "localContext": "Cupertino's status as a tech hub requires specialized demolition services for renovations, expansions, and new construction related to the technology industry.",
+        "nearbyAreas": [
+          "Sunnyvale",
+          "Santa Clara",
+          "Los Altos"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Residential Demolition",
+        "text": "ADA Demolition did an amazing job demolishing our old garage. They were professional, efficient, and left the site perfectly clean. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Commercial Demolition",
+        "text": "We hired ADA Demolition to remove an old retail space. They worked quickly and safely, minimizing disruption to our business. The communication was excellent throughout the project.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Selective Demolition",
+        "text": "ADA Demolition performed selective demolition to remove a load-bearing wall in my home. They were extremely careful and professional, ensuring the structural integrity of the house was maintained. Would definitely hire again.",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Concrete Removal",
+        "text": "I needed an old concrete patio removed, and ADA Demolition provided a great service at a fair price. They were punctual, efficient, and cleaned up everything perfectly. Very satisfied!",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 4,
+        "service": "Pool Removal",
+        "text": "ADA Demolition removed our outdated pool, and we're so happy with the results! The team was professional and efficient, and the backyard looks fantastic now. Only reason for 4 stars is some minor delays with the permit processing.",
+        "date": "2024-07-05"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Site Clearing",
+        "text": "ADA Demolition cleared my property for new construction. They removed trees and brush quickly and efficiently, leaving a clean and level building site. A great experience from start to finish.",
+        "date": "2025-04-22"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "San Jose Demolition Contractor | ADA Demolition",
+        "description": "Safe, efficient demolition services in San Jose CA. Residential, commercial, and selective demolition experts. Free quotes!"
+      },
+      "about": {
+        "title": "About ADA Demolition | San Jose CA",
+        "description": "Learn about ADA Demolition Inc., San Jose's trusted demolition contractor. Experienced, reliable, and committed to quality."
+      },
+      "services": {
+        "title": "Demolition Services | San Jose CA",
+        "description": "Comprehensive demolition services in San Jose. Residential, commercial, concrete removal, and more. Contact us today!"
+      },
+      "contact": {
+        "title": "Contact ADA Demolition | San Jose CA",
+        "description": "Get in touch with ADA Demolition for a free quote. Serving San Jose and surrounding areas. Call +14088992836"
+      },
+      "reviews": {
+        "title": "ADA Demolition Reviews | San Jose CA",
+        "description": "Read reviews from satisfied ADA Demolition customers in San Jose. Quality demolition services and customer satisfaction."
+      },
+      "service-areas": {
+        "title": "Demolition Service Areas | San Jose CA",
+        "description": "ADA Demolition provides demolition services in San Jose and the surrounding areas. Check our service area coverage."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "residential-demolition": "/images/service-residential-demolition.webp",
+      "commercial-demolition": "/images/service-commercial-demolition.webp",
+      "selective-demolition": "/images/service-selective-demolition.webp",
+      "concrete-removal": "/images/service-concrete-removal.webp",
+      "pool-removal": "/images/service-pool-removal.webp",
+      "site-clearing": "/images/service-site-clearing.webp"
+    },
+    "servicesResponsive": {
+      "residential-demolition": {
+        "src": "/images/service-residential-demolition.webp",
+        "srcset": "/images/service-residential-demolition-400w.webp 400w, /images/service-residential-demolition-800w.webp 800w, /images/service-residential-demolition-1200w.webp 1200w, /images/service-residential-demolition.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-demolition": {
+        "src": "/images/service-commercial-demolition.webp",
+        "srcset": "/images/service-commercial-demolition-400w.webp 400w, /images/service-commercial-demolition-800w.webp 800w, /images/service-commercial-demolition-1200w.webp 1200w, /images/service-commercial-demolition.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "selective-demolition": {
+        "src": "/images/service-selective-demolition.webp",
+        "srcset": "/images/service-selective-demolition-400w.webp 400w, /images/service-selective-demolition-800w.webp 800w, /images/service-selective-demolition-1200w.webp 1200w, /images/service-selective-demolition.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-removal": {
+        "src": "/images/service-concrete-removal.webp",
+        "srcset": "/images/service-concrete-removal-400w.webp 400w, /images/service-concrete-removal-800w.webp 800w, /images/service-concrete-removal-1200w.webp 1200w, /images/service-concrete-removal.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "pool-removal": {
+        "src": "/images/service-pool-removal.webp",
+        "srcset": "/images/service-pool-removal-400w.webp 400w, /images/service-pool-removal-800w.webp 800w, /images/service-pool-removal-1200w.webp 1200w, /images/service-pool-removal.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "site-clearing": {
+        "src": "/images/service-site-clearing.webp",
+        "srcset": "/images/service-site-clearing-400w.webp 400w, /images/service-site-clearing-800w.webp 800w, /images/service-site-clearing-1200w.webp 1200w, /images/service-site-clearing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
